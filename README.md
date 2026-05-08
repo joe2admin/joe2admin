@@ -1,4 +1,4 @@
-# Gabriel here 👋
+## Gabriel here 👋
 
 I'm a Computer Engineer passionate about software, robotics, and building useful digital products.
 
