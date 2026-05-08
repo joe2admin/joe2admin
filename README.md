@@ -1,6 +1,6 @@
 # Gabriel here 👋
 
-Computer Engineering student passionate about software, robotics, and building useful digital products.
+I'm a Computer Engineer passionate about software, robotics, and building useful digital products.
 
 Currently learning and building with Flutter, Python, Firebase, and modern software tools.  
 I enjoy creating mobile apps, experimenting with AI/robotics ideas, and solving real-world problems through technology.
@@ -12,7 +12,7 @@ I enjoy creating mobile apps, experimenting with AI/robotics ideas, and solving 
 - Improving my software engineering skills daily
 
 ### Tools & Technologies
-Flutter • Dart • Python • Firebase • Supabase • Git • Linux • Figma
+Laravel • Dart • Python • Git • Postgres • ML • CyberSecurity
 
 ### Reach Me
 - GitHub: github.com/yourusername
