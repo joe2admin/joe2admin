@@ -15,9 +15,8 @@ I enjoy creating mobile apps, experimenting with AI/robotics ideas, and solving 
 Laravel • Dart • Python • Git • Postgres • ML • CyberSecurity
 
 ### Reach Me
-- GitHub: github.com/yourusername
-- LinkedIn: linkedin.com/in/yourusername
-- Email: youremail@example.com
+- LinkedIn: linkedin.com/in/afrimprince
+- Email: joelinahikes@gmail.com
 <!--
 **joe2admin/joe2admin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
